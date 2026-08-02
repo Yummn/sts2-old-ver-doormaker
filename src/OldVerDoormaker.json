@@ -1,0 +1,12 @@
+{
+  "id": "OldVerDoormaker",
+  "name": "旧版门扉 / Old Ver. Doormaker",
+  "author": "noname; v103/v110 compatibility fix by Codex",
+  "description": "v0.110.1 compatibility build. Reintroduces the removed Doormaker boss as a self-contained mod encounter, restores it to Glory boss discovery and selection, and adapts protected model APIs, PlayerChoiceContext power commands, phase strength updates, and fallback positioning.",
+  "version": "1.1.0",
+  "min_game_version": "0.110.1",
+  "has_pck": false,
+  "has_dll": true,
+  "dependencies": [],
+  "affects_gameplay": true
+}
