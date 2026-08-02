@@ -1,0 +1,12 @@
+{
+  "id": "OldVerDoormaker",
+  "name": "旧版门扉 / Old Ver. Doormaker",
+  "author": "noname; v107/v110 compatibility fix by Yummn / Codex",
+  "description": "Restores the removed Doormaker boss as a self-contained encounter and adapts it for PC v0.107.1.",
+  "version": "1.1.0",
+  "min_game_version": "0.107.1",
+  "has_pck": false,
+  "has_dll": true,
+  "dependencies": [],
+  "affects_gameplay": true
+}
