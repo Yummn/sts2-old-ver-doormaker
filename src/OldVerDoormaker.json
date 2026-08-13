@@ -1,8 +1,8 @@
 {
   "id": "OldVerDoormaker",
   "name": "旧版门扉 / Old Ver. Doormaker",
-  "author": "noname; v103/v110 compatibility fix by Codex",
-  "description": "v0.110.1 compatibility build. Reintroduces the removed Doormaker boss as a self-contained mod encounter, restores it to Glory boss discovery and selection, and adapts protected model APIs, PlayerChoiceContext power commands, phase strength updates, and fallback positioning.",
+  "author": "noname；兼容维护：Yummn",
+  "description": "Android v0.110.1 兼容版本。将已移除的造门者 Boss 重建为自包含遭遇，恢复荣耀角色的发现顺序与候选池，并适配受保护模型 API、能力指令、阶段力量变化和备用站位。",
   "version": "1.1.0",
   "min_game_version": "0.110.1",
   "has_pck": false,
